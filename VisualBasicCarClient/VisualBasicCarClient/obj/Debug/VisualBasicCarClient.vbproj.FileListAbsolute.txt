@@ -1,0 +1,14 @@
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.exe.config
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.exe
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.pdb
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.xml
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\CarLibrary.dll
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\CarLibrary.pdb
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.AssemblyReference.cache
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.Resources.resources
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.GenerateResource.cache
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.CoreCompileInputs.cache
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBa.1561726E.Up2Date
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.exe
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.xml
+C:\МДК_01.04\ПР_2\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.pdb
