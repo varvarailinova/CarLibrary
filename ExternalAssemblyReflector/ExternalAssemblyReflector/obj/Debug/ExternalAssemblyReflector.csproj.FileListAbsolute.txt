@@ -1,0 +1,7 @@
+C:\МДК_01.04\ПР_2\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe.config
+C:\МДК_01.04\ПР_2\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe
+C:\МДК_01.04\ПР_2\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.pdb
+C:\МДК_01.04\ПР_2\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.csproj.AssemblyReference.cache
+C:\МДК_01.04\ПР_2\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.csproj.CoreCompileInputs.cache
+C:\МДК_01.04\ПР_2\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.exe
+C:\МДК_01.04\ПР_2\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.pdb
