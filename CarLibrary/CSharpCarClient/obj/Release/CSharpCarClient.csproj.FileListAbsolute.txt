@@ -1,0 +1,10 @@
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\bin\Release\CSharpCarClient.exe.config
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\bin\Release\CSharpCarClient.exe
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\bin\Release\CSharpCarClient.pdb
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\bin\Release\CarLibrary.dll
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\bin\Release\CarLibrary.pdb
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\obj\Release\CSharpCarClient.csproj.AssemblyReference.cache
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\obj\Release\CSharpCarClient.csproj.CoreCompileInputs.cache
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\obj\Release\CSharpCa.AD425495.Up2Date
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\obj\Release\CSharpCarClient.exe
+C:\МДК_01.04\ПР_2\CarLibrary\CSharpCarClient\obj\Release\CSharpCarClient.pdb

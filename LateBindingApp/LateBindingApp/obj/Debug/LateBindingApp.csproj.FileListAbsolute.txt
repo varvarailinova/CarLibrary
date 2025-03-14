@@ -1,0 +1,7 @@
+C:\МДК_01.04\ПР_2\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe.config
+C:\МДК_01.04\ПР_2\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe
+C:\МДК_01.04\ПР_2\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.pdb
+C:\МДК_01.04\ПР_2\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.AssemblyReference.cache
+C:\МДК_01.04\ПР_2\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.CoreCompileInputs.cache
+C:\МДК_01.04\ПР_2\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.exe
+C:\МДК_01.04\ПР_2\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.pdb
